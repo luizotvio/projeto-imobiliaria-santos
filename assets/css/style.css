@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+header {
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    padding: 30px;
+    background-color: #B0DDFC;
+}
+
+header img {
+    width: 130px;
+}
+
+header a {
+    color: #334E5F;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: #1e80be;
+}
+
+header ul {
+    padding-left: 0;
+}
+
+header li {
+    display: inline;
+    margin-left: 10px;
+    font-weight: bold;
+    list-style: none;
+}
+
+section {
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+    font-family: 'Rubik';
+}
+
+.banner img {
+    width: 1024px;
+}
+
+.sobre h1 {
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.sobre h2 {
+    font-weight: normal;
+}
+
+.sobre img {
+    width: 500px;
+}
+
+.sobre p {
+    font-size: 18px;
+    line-height: 30px;
+    width: 1024px;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+.sobre span {
+    font-weight: bold;
+}
+
+.servicos {
+    background-color: #1D80C1;
+    color: white;
+    width: 100%;
+    margin: 60px 0;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+.servicos h3 {
+    font-size: 40px;
+    padding-top: 40px;
+}
+
+.servicos p {
+    width: 660px;
+    margin: 0 auto;
+    line-height: 35px;
+}
+
+.servicos ul {
+    width: 60px;
+    margin: 30px auto;
+    padding-right: 60px;
+}
+
+.servicos li {
+    padding-bottom: 10px;
+}
+
+.corretores h3{
+    font-size: 36px;
+}
+
+.corretores img {
+    width: 500px;
+}
+
+.corretores p {
+    font-size: 18px;
+    line-height: 30px;
+    width: 1024px;
+    text-align: justify;
+    margin: 10px auto;
+}
+
+.corretores span {
+    font-weight: bold;
+}
+
+.contato {
+    background-color: #1D80C1;
+    color: white;
+    width: 100%;
+    font-size: 20px;
+}
+
+.contato h3 {
+    font-size: 36px;
+    padding-top: 40px;
+}
+
+.contato p {
+    font-size: 16px;
+    background-color: black;
+    width: 1024px;
+    padding: 10px 0;
+    margin: 20px auto;
+}
+
+.contato ul {
+    list-style: none;
+    padding: 20px 0;
+}
+
+.contato li {
+    margin: 20px 0;
+}
+
+.contato a { 
+    background-color: white;
+    color: #1D80C1;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.text-color {
+    color: #347AAB;
+}
+
+.text-yellow {
+    color: #E5FA55;
+    font-weight: bold;
+}
